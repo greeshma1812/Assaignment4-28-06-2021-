@@ -1,5 +1,5 @@
 import java.util.*;
-class Reverse
+class evenoddpro
 {
     public static void main(String args[])
     {
